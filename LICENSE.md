@@ -1,4 +1,4 @@
-
+Alfred for macOS ultimate Tool: scripting-support & VM-management is the best Alfred for macOS tool, featuring scripting-support and VM-management. Safe, efficient, and optimized
 
 
 
